@@ -26,7 +26,24 @@ simulant un outil de supervision réseau utilisé en entreprise.
 - VirtualBox 7.x
 
 ## 📸 Screenshots
-(à ajouter)
+
+### 1. Installation Zabbix
+![Install](1.INSTALLATION%20ZABBIX%20FRONTEND.PNG)
+
+### 2. Création base de données MySQL
+![SQL](2.CREATION%20BASE%20DE%20DONNEES%20MYSQL.PNG)
+
+### 3. Configuration Zabbix Server
+![Config](3.CONFIGURATION%20ZABBIX%20SERVER.PNG)
+
+### 4. Zabbix Server actif
+![Actif](4.ZABBIX%20SERVER%20RUNNING.PNG)
+
+### 5. Interface web Zabbix
+![Web](5.INTERFACE%20WEB%20ZABBIX.PNG)
+
+### 6. Dashboard Zabbix
+![Dashboard](6.DASHBOARD%20ZABBIX.PNG)
 
 ## 📚 Ce que j'ai appris
 - Déployer un outil de supervision réseau professionnel
